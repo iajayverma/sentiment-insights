@@ -1,0 +1,10 @@
+aclImdb/
+*.gz
+*.pyc
+jp/
+*.txt
+opinion-lexicon-English.rar
+opinion-lexicon-English/
+*.swp
+
+.env
